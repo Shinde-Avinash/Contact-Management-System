@@ -2,6 +2,7 @@
 
 A simple desktop-based Contact Management System built using **Python**, **Tkinter**, and **SQLite**.  
 It allows users to **add, view, update, and delete** contacts through an interactive GUI.
+<img width="898" height="629" alt="image" src="https://github.com/user-attachments/assets/0b5e3340-e5e4-402c-8674-dcb31e1f6258" />
 
 ---
 
@@ -25,12 +26,9 @@ It allows users to **add, view, update, and delete** contacts through an interac
 | Language  | Python 3 |
 
 ---
+📁 Contact Management System
+│
+├── contact_manager.py     # Main application file
+├── pythontut.db           # Database file (auto-created on first run)
+└── README.md              # Project documentation
 
-## 📦 Installation & Setup
-
-Follow these simple steps to run the app locally 👇
-
-### 1️⃣ Clone this repository
-```bash
-git clone https://github.com/<your-username>/tkinter-contact-manager.git
-cd tkinter-contact-manager
